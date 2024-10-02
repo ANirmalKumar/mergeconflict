@@ -1,2 +1,2 @@
 City : Bangalore
-Transport : None
+Transport : Bus
